@@ -1,2 +1,3 @@
-*.class
-*.log
+a.class
+b.class
+c.log
